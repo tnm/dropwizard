@@ -1,6 +1,8 @@
 Dropwizard
 ==========
 
+[![Join the chat at https://gitter.im/tnm/dropwizard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tnm/dropwizard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *Dropwizard is a sneaky way of making fast Java or Scala web services.*
 
 It's a little bit of opinionated glue code which bangs together a set of libraries which have
